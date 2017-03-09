@@ -119,7 +119,8 @@ Command | Usage | Resource
 `font-size`	| font size | [W3Schools](https://www.w3schools.com/cssref/pr_font_size.asp)
 `line-height`	| the height of the lines of your content (think double-space vs. single-space) | [W3Schools](https://www.w3schools.com/cssref/pr_line_height.asp)
 
-## Resources
+## Resources (Bonus Learning)
 
 - [Mozilla Developer's network HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Contributing to an open-source project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/#summarythe-beginners-guide-to-contributing-to-a-github-project/)
+- [Git flow branching model](http://nvie.com/posts/a-successful-git-branching-model/)
