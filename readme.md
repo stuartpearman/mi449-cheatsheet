@@ -1,3 +1,5 @@
+# MI449 Cheatsheet
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
@@ -55,9 +57,6 @@ Command | Usage | Resource
 `npm install` | Install an NPM package
 `surge` | Host site on surge (include `--domain` option for custom URL)
 
-
----
-
 ## HTML tags
 
 ### Document Setup
@@ -105,9 +104,6 @@ Command | Usage | Resource
 `footer`	| bottom information unrelated to the main content | [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
 `aside`	| Information aside from the main content | [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside)
 `nav`	| contains links to navigate the website | [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
-
-
----
 
 ## CSS Properties
 
