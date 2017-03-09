@@ -121,5 +121,5 @@ Command | Usage | Resource
 
 ## Resources
 
-[Mozilla Developer's network HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[Contributing to an open-source project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/#summarythe-beginners-guide-to-contributing-to-a-github-project/)
+- [Mozilla Developer's network HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Contributing to an open-source project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/#summarythe-beginners-guide-to-contributing-to-a-github-project/)
